@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "title": "Drift Kart TR",
+  "description": "Türkçe kırmızı-gri pistlerde drift, power-up ve üç seviye kart yarışı.",
+  "defaultCaptions": {
+    "x": "Drift Kart TR",
+    "facebook": "Drift Kart TR",
+    "reddit": "Drift Kart TR",
+    "discord": "Drift Kart TR"
+  },
+  "assets": {
+    "favicon": "assets/share/favicon.png"
+  }
+}

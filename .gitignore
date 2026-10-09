@@ -1,0 +1,5 @@
+node_modules/
+dist/
+shots/
+# Assets restored from assets.lock.json
+/assets/share/favicon.png
